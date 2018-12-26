@@ -1,0 +1,68 @@
+{  
+   "Organization":{  
+      "OrganizationID":"sesdOrg",
+      "Name":"Sparse Enrollment Sparse Data Org",
+      "Accounts":[  
+         {  
+            "AccountID":"410cad81-db93-4187-97a8-0a40b7904851",
+            "Name":[  
+               "SESD",
+               "Admin"
+            ],
+            "Role":"DISTRICT_ADMIN",
+            "Email":"abraham@cognitivetoybox.com"
+         }
+      ],
+      "Schools":[  
+         {  
+            "SchoolID":"785eb8ea-1429-455c-9c28-e350eb8eef58",
+            "Name":"UnFtiuoTbu School",
+            "Classrooms":[  
+               {  
+                  "ClassroomID":"76070b83-b369-4fee-8a99-d76ebd6aac85",
+                  "Name":"KauvlgjE Class",
+                  "Accounts":[  
+ 
+                  ]
+               },
+               {  
+                  "ClassroomID":"0e7c1713-9cbd-4c36-a544-eecc93dac83e",
+                  "Name":"nKEmKRNz Class",
+                  "Accounts":[  
+                     {  
+                        "AccountID":"ef26e12b-94f7-4b9f-af6d-5288e68fa659",
+                        "Name":[  
+                           "SESD",
+                           "Teacher"
+                        ],
+                        "Role":"TEACHER",
+                        "Email":"abraham@cognitivetoybox.com"
+                     }
+                  ]
+               },
+               {  
+                  "ClassroomID":"452ff12e-9353-43d1-a045-dcc7168db068",
+                  "Name":"rmaMmXgR Class",
+                  "Accounts":[  
+ 
+                  ]
+               }
+            ],
+            "Accounts":[  
+               {  
+                  "AccountID":"60f9872f-f7ec-46e7-b059-ff3beaeba199",
+                  "Name":[  
+                     "SESD",
+                     "School Admin"
+                  ],
+                  "Role":"SCHOOL_ADMIN",
+                  "Email":"abraham@cognitivetoybox.com"
+               }
+            ],
+            "ObjectiveConfigurations":[  
+ 
+            ]
+         }
+      ]
+   }
+}
